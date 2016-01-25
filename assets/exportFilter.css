@@ -1,0 +1,12 @@
+
+.exportFilterList .select2-container{
+width:100%;
+}
+.exportFilterList::before, .exportFilterList::after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.exportFilterList::after,.exportFilterList::before {
+    clear: both;
+}
