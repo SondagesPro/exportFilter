@@ -3,7 +3,7 @@
  * exportFilter Plugin for LimeSurvey
  *
  * @author Denis Chenu <denis@sondages.pro>
- * @copyright 2015 Ysthad
+ * @copyright 2015 Ysthad <http://ysthad.com>
  * @copyright 2015 Denis Chenu <http://sondages.pro>
  * @license AGPL v3
  * @version 0.1
